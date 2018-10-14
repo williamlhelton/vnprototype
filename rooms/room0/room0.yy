@@ -7,7 +7,7 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-
+        "e77b4ab0-9035-4c51-9966-95a944e690ba"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_26F4005A","id": "e77b4ab0-9035-4c51-9966-95a944e690ba","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_26F4005A","objId": "dd745368-cc1c-45a8-b0a7-d4c7e929974f","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 320,"y": 256}
             ],
             "layers": [
 
@@ -43,7 +43,7 @@
             "id": "854bdead-06f5-463a-b37a-b54033f13bf7",
             "animationFPS": 15,
             "animationSpeedType": "0",
-            "colour": { "Value": 4278190080 },
+            "colour": { "Value": 4294967295 },
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
@@ -62,8 +62,8 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "00000000-0000-0000-0000-000000000000",
-            "stretch": false,
+            "spriteId": "afa35e13-1dbf-4260-9fc3-e52ad85fcebf",
+            "stretch": true,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
             "visible": true,
@@ -87,12 +87,12 @@
     },
     "roomSettings":     {
         "id": "008bdcef-adcb-4604-8f45-24189bcf2bc8",
-        "Height": 768,
+        "Height": 480,
         "inheritRoomSettings": false,
         "modelName": "GMRoomSettings",
         "persistent": false,
         "mvc": "1.0",
-        "Width": 1024
+        "Width": 640
     },
     "mvc": "1.0",
     "views": [

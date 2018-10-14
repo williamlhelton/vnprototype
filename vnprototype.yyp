@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "9dcae518-2613-436c-9793-ecca64c5c373",
+            "Value": {
+                "id": "446ce2bb-e4db-4648-86db-e83d856e06f2",
+                "resourcePath": "sprites\\spr_mista_pixel\\spr_mista_pixel.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9ecd0537-0bbc-4be6-9da8-9b590c6e7de8",
             "Value": {
                 "id": "8808352d-1743-44a8-a6a4-1e3cbd749b2b",
@@ -124,6 +132,14 @@
                 "id": "52d38c95-f1d4-4a10-87ae-7b241178751b",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "afa35e13-1dbf-4260-9fc3-e52ad85fcebf",
+            "Value": {
+                "id": "3febfdc8-a958-4027-aea0-51060ad6b4d9",
+                "resourcePath": "sprites\\spr_background0\\spr_background0.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -156,6 +172,14 @@
                 "id": "8fd44e08-1ae6-4c2d-953d-cf3d3dbea704",
                 "resourcePath": "views\\d75b87eb-4886-4ec9-abbc-d50c00b0298e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dd745368-cc1c-45a8-b0a7-d4c7e929974f",
+            "Value": {
+                "id": "bfdab1f4-495c-40a2-a533-2c47dd0ccd5b",
+                "resourcePath": "objects\\obj_char_mista_pixel\\obj_char_mista_pixel.yy",
+                "resourceType": "GMObject"
             }
         },
         {
