@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "4bf4afa4-9972-4dc2-ac90-f486804951d9",
+            "Value": {
+                "id": "c01bc1f8-8bd1-40e4-a28b-a1125b47ec80",
+                "resourcePath": "objects\\obj_dialog_box\\obj_dialog_box.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "62dd6bd3-eafe-415e-a855-edb2c7323bbc",
             "Value": {
                 "id": "fbcfd2b9-345b-4bf5-8adc-97828f2d37f4",
@@ -122,7 +130,7 @@
             "Key": "9ecd0537-0bbc-4be6-9da8-9b590c6e7de8",
             "Value": {
                 "id": "8808352d-1743-44a8-a6a4-1e3cbd749b2b",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\Room0\\Room0.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -196,6 +204,14 @@
                 "id": "aced777e-2346-4440-9a00-f133893a691e",
                 "resourcePath": "views\\e9ecd5f4-506c-4fba-a5e4-95ead59c131c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ed96df2c-80a4-4511-afa5-fadb4c1943c5",
+            "Value": {
+                "id": "b75d08d6-0022-49a0-9e12-3a644a55244b",
+                "resourcePath": "sprites\\spr_dialog_box\\spr_dialog_box.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
